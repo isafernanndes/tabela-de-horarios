@@ -1,0 +1,67 @@
+.table{
+    border-spacing: 0px;
+    padding: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 4;
+    border: 3;
+    padding: 2;
+}
+
+.turma{
+    writing-mode: vertical-lr;
+    text-align: center;
+    width: 60px;
+}
+
+.hor{
+    text-align: left;
+}
+
+.dia{
+    background-color: #ddc7d2;
+    text-align: center;
+}
+
+.tec{
+    background-color: #86768b;
+    text-align: center;
+}
+
+.mat{
+    background-color: #f0f05f;
+    text-align: center;
+}
+
+.pp{
+    background-color:  #f5bb90;
+    text-align: center;
+}
+
+.pv{
+    background-color: #cbdfb8;
+    text-align: center;
+}
+
+.hum{
+    background-color: #dbe0f1;
+    text-align: center;
+}
+
+.ling{
+    background-color: #f4c7e8;
+    text-align: center;
+}
+
+.intervalo{
+    background-color: #d0cece;
+    text-align: center;
+}
+
+.cie{
+    background-color: orange;
+    text-align: center;
+}
+
+.liv{
+    text-align: center;
+}
